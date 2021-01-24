@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ch12 Assignment </title>
+<style>
+p{
+text-align: justify;
+
+}
+#b{
+  text-align: center;
+  font-weight: bold;
+}
+h2{
+  text-transform: uppercase;
+  text-shadow: 1px 1px 3px #666666;
+}
+h3{
+  text-transform: capitalize; 
+}
+.blue{
+  color: blue;
+}
+.wrapper{
+  width:100%;
+  padding: 20px;
+  float: left;
+  border-radius: 8px;
+  box-sizing: border-box;
+  box-shadow: 0 5px 5px rgba(0,0,0,0.15);
+
+}
+
+.bold{
+   font-style: italic;
+   font-weight: bold;
+}
+
+</Style>
+ </head>
+<body>
+<div class="wrapper">
+<h1>PIAIC</h1>
+<h2>presidential initiative for artificial intelligence<br /> and computing </h2>
+<div><p>Presidential Initiative for Artificial Intelligence and Computing(PIAIC) is a privately funded not-for-profit educational initiative started by President of Pakistan,Dr.Arif alvi,Kazi Rahat Ali,and Zia Khan to help promote education,research and business opportunities in emerging tech feilds like </p></div>
+
+<ul>
+<li class="blue">Cloud Native Computing </li>
+<br />
+<li>Artificial Intelligence </li>
+<br />
+<li>Blockchain </li>
+<br />
+<li>Internet of Things </li>
+</ul>
+
+<h3>cloud native computing: </h3>
+<div><p>The <b>Cloud Native Computing</b> prepares the students to program in open source technologies like,<br /><span class="bold">Linux,Docker Kubernetes,Java Script,Node.Js,React and React Native</span> while introducing the student to<br/> development of Microsevices and software development techniques on clou platform like AWS. </p> </div>
+
+<h3> artificial intelligence:</h3>
+<div><p>The<b> artificial intelligence</b> program of PIAIC takes the students through the foundation of the AI technology,via<br/> teaching programming in the open source languages like<span class="bold"> Python,Numpy,Pandas,Tenserflow 2.0 anf Flask,</span><br/>and teaching developing practical AI solutions and use cases,and<br />ending with real-life examples of modern day AI<br/> in practice. </p> </div>
+
+<h3>blockchain: </h3>
+<div><p>The main emphasis of<b> Blockchain </b>program is to undestand the blockchains like<span class="bold"> Ethereum and Hyperledger<br/>(Fabric),</span>and learn to program in languages such as Solidity JavaScript on framework like Node.Js. The<br/> program also introduces them to development of Distributed Apps(DApps), frameworks like Web3 and truffle<br/> and an in-depth undestanding of blockchain-as-services(BaaS) and how to develop and offer an initial Coin<br/> Offering (ICO) of a crypton token. </p> </div>
+</div>
+
+<div class="wrapper">
+<h3>Internet of Things: </h3>
+<div><p> The <b>Intenet of Things</b> program introduces the students to open source <br/>development technologies like <span class="bold">RUST,Embedded Rust,WebAssembly,Hyper,Diesel,Google Assistant,<br/> and Kubernetes</span> while making them efficient in developing Micro Services for IOT Edge,IoT<br/> Cloud and voice computing for device control.</p> </div>
+
+<div><p id="b">by:<a href="">Ameen Alam</a></p></div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<h4>CNC QUARTER 2</h4>
+<title><h4>BATCH 6</h4>
+<h4> CSS ASSIGNMENT</h4>
+<h4>NAME: IRAM BASHIR </h4>
+<h4>ROLL#: PIAIC80615 </h4>
+</div>
+</body>
+</html>
