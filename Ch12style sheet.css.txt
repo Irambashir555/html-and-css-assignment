@@ -1,0 +1,52 @@
+body{
+   border: none;
+}
+table{
+   border: 2px solid black;
+}
+td {
+    width: 4vw;
+    border: 1px solid black;
+    text-align: center;
+}
+.noborder{
+    border: none;
+}
+.heading{
+    padding: 5px;
+    font-size: 5vw; 
+}
+.maginda{
+    background-color:#BA55D3;
+}
+.darkblue{
+    background-color:#4169E1;
+}
+.pink{
+   background-color:#FFB6C1;
+}
+.mediumblue{
+   background-color:#1E90FF;
+}
+.golden{
+   background-color:#DAA520;
+}
+.darkgreen{
+   background-color:#2E8B57;
+}
+.darkbrown{
+   background-color:#8B4513;
+}
+.mediumpink{
+   background-color:#FA8072;
+}
+.yellow{
+   background-color:#FFD700;
+}
+.orangishred{
+   background-color:#FF4500;
+}
+
+
+
+
