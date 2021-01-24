@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+
+</title> 
+<style>
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+body{
+   background-color: #f5f7f9;
+   font-family:Open Sans,sans-serif;
+}
+
+img{
+   width:250px;
+   border-radius:20px;
+   margin-bottom:30px;
+}
+.box{
+   width: 30%;
+   float: left;
+   margin: 50px 20px;
+   background-color: #fff;
+   padding: 15px;
+   border-radius: 8px;
+   box-shadow: 0 5px 5px rgba(0,0,0,0.15);
+}
+.box h2{
+   margin-bottom:8px;
+}
+.box p{
+  font-size: 15px;
+  line-height:28px;
+  height: 90px;
+}
+.box input{
+  display: inlineblock;
+  color: white;
+  background-color: #0080ff;
+  text-decoration: none;
+  padding:10px 15px;
+  border-radius: 8px;
+  margin-top: 15px;
+}
+.box input:hover{
+box-shadow:0 5px 5px rgba(0,0,0,0.2);
+}
+div{
+   display:inline-block;
+
+}
+</style>
+</head>
+<body>
+<div class="box">
+<div class="button">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK3Zn80RHG_wf_21S7TYUQfL3Vo6QMHvD0bg&usqp=CAU" alt="">
+<h2>Ameen Alam </h2>
+<p>Some quick example text to build on<br /> the card title and make up the bulk of <br />the cards's content.  </p>
+<input type="submit" value="Read More"/>
+</div>
+</div>
+
+<div class="box">
+<div class="button">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK3Zn80RHG_wf_21S7TYUQfL3Vo6QMHvD0bg&usqp=CAU" alt="">
+<h2>Ameen Alam </h2>
+<p>Some quick example text to build on<br /> the card title and make up the bulk of <br />the cards's content.  </p>
+<input type="submit" value="Read More"/>
+</div>
+</div>
+
+<div class="box">
+<div class="button">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK3Zn80RHG_wf_21S7TYUQfL3Vo6QMHvD0bg&usqp=CAU" alt="">
+<h2>Ameen Alam </h2>
+<p>Some quick example text to build on<br /> the card title and make up the bulk of <br />the cards's content.  </p>
+<input type="submit" value="Read More"/>
+</div>
+</div>
+</body>
+</html>
+<h4>CNC QUARTER 2</h4>
+<h4>BATCH 6</h4>
+<h4> CSS ASSIGNMENT </h4>
+<h4>NAME: IRAM BASHIR </h4>
+<h4>ROLL#: PIAIC80615 </h4>
