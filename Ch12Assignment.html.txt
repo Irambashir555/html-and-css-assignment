@@ -18,6 +18,9 @@ h2{
 h3{
   text-transform: capitalize; 
 }
+h3.capital:first-letter{
+  font-size: 150%
+}
 .blue{
   color: blue;
 }
@@ -54,18 +57,18 @@ h3{
 <li>Internet of Things </li>
 </ul>
 
-<h3>cloud native computing: </h3>
+<h3 class="capital">cloud native computing: </h3>
 <div><p>The <b>Cloud Native Computing</b> prepares the students to program in open source technologies like,<br /><span class="bold">Linux,Docker Kubernetes,Java Script,Node.Js,React and React Native</span> while introducing the student to<br/> development of Microsevices and software development techniques on clou platform like AWS. </p> </div>
 
-<h3> artificial intelligence:</h3>
+<h3 class="capital"> artificial intelligence:</h3>
 <div><p>The<b> artificial intelligence</b> program of PIAIC takes the students through the foundation of the AI technology,via<br/> teaching programming in the open source languages like<span class="bold"> Python,Numpy,Pandas,Tenserflow 2.0 anf Flask,</span><br/>and teaching developing practical AI solutions and use cases,and<br />ending with real-life examples of modern day AI<br/> in practice. </p> </div>
 
-<h3>blockchain: </h3>
+<h3 class="capital">blockchain: </h3>
 <div><p>The main emphasis of<b> Blockchain </b>program is to undestand the blockchains like<span class="bold"> Ethereum and Hyperledger<br/>(Fabric),</span>and learn to program in languages such as Solidity JavaScript on framework like Node.Js. The<br/> program also introduces them to development of Distributed Apps(DApps), frameworks like Web3 and truffle<br/> and an in-depth undestanding of blockchain-as-services(BaaS) and how to develop and offer an initial Coin<br/> Offering (ICO) of a crypton token. </p> </div>
 </div>
 
 <div class="wrapper">
-<h3>Internet of Things: </h3>
+<h3 class="capital">Internet of Things: </h3>
 <div><p> The <b>Intenet of Things</b> program introduces the students to open source <br/>development technologies like <span class="bold">RUST,Embedded Rust,WebAssembly,Hyper,Diesel,Google Assistant,<br/> and Kubernetes</span> while making them efficient in developing Micro Services for IOT Edge,IoT<br/> Cloud and voice computing for device control.</p> </div>
 
 <div><p id="b">by:<a href="">Ameen Alam</a></p></div>
