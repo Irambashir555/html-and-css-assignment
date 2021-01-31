@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website</title>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="<!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css"> 
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+    <header class="header">
+<nav class=" navbar navbar-style">
+    <div class="container">
+    <div class="navbar-header">
+ <a href=""> <img  class="logo" src="data:image/png;base64,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" height="38" alt="panacloud logo"></a>
+</div>
+<div class="collapse navbar-collapse" id="micon"></div>       
+   <ul class="nav navbar-nav navbar-right">
+    <li><a href="">Why us</a></li>
+    <li><a href="">About</a></li>
+    <li><a href="">Services</a></li>
+    <li><a href="">Portfolio</a></li>
+    <li><a href="">Process</a></li>
+    <li><a href="">Reviews</a></li>
+    <li><a href="">Our Skills</a></li>
+    <li><a href="">Contact Us</a></li>
+   </ul> 
+    </div>
+</nav>
+   
+<center>
+<div class="second">
+<br />
+<br />
+<br />
+<h1 class="center">We are experts</h1>
+<br />
+<p>Lorem ipsum color sit amit consetetur sadipscing eitter,sed diam  nonuamy<br /> eirmod tempor invidunt ut labore et dolore magna alquyam erat </p>
+<br />
+<button type="button" class="btn btn-secondary ">READ MORE</button>
+<br />
+<br />
+<br />
+<br />
+</div>
+</center>
+<div class="third">
+    <div class="heading">
+    <h1 class="center1"> our <span class="yellowgreen">advantages</span></h1>
+    <p>Lorem ipsum color sit amit consetetur sadipscing eitter,sed diam  nonuamy
+    <br /> eirmod tempor invidunt ut labore et dolore magna alquyam erat </p>
+    </div>
+     <div class="icon">
+    <i class="fa fa-lightbulb-o" aria-hidden="true" style="font-size:48px;"></i>  
+    <h4>innovations</h4>
+    <p>Lorem ipsum color sit amit consetetur sadipscing eitter,sed diam  nonuamy <br /> eirmod tempor invidunt ut labore et dolore magna alquyam erat</p> 
+    <br />
+    </div>
+    <div class="icon">
+    <i class="fa fa-thumbs-o-up "style="font-size:48px;"></i> 
+    <h4>Quality</h4>
+    <p>Lorem ipsum color sit amit consetetur sadipscing eitter,sed diam  nonuamy <br /> eirmod tempor invidunt ut labore et dolore magna alquyam erat</p> 
+    <br />
+    </div>
+    <div class="icon">
+    <i class="fa fa-clock-o" aria-hidden="true" style="font-size:48px;"></i>  
+    <h4>experience</h4>
+    <p>Lorem ipsum color sit amit consetetur sadipscing eitter,sed diam  nonuamy <br /> eirmod tempor invidunt ut labore et dolore magna alquyam erat</p> 
+    <br />
+    </div>
+    <div class="icon">
+    <i class="fa fa-group" style="font-size:48px;" ></i>
+    <h4>happy clients</h4>
+    <p>Lorem ipsum color sit amit consetetur sadipscing eitter,sed diam  nonuamy <br /> eirmod tempor invidunt ut labore et dolore magna alquyam erat</p>
+    </div>
+    <div class="icon">
+    <i class="fa fa-comments-o" style="font-size:48px;"></i>  
+    <h4>support</h4>
+    <p>Lorem ipsum color sit amit consetetur sadipscing eitter,sed diam  nonuamy <br /> eirmod tempor invidunt ut labore et dolore magna alquyam erat</p> 
+
+</div>
+</div>
+</div>
+<div  class="fourth">
+<h1>about us</h1>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYsT4Yh_wv4YpkicgiqwnnCx-l_n8-aUsNkA&usqp=CAU" align="right">   
+<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc enim neque, auctor a ullamcorper eu, faucibus vel ipsum. Nunc posuere ut nibh et dignissim. Duis urna augue, tincidunt at turpis et, sagittis laoreet enim. Nunc nec leo sed arcu sodales hendrerit a et erat. Vivamus in tortor ac eros auctor ullamcorper. Sed finibus erat vitae pellentesque lacinia. In nec congue lacus, a egestas risus. Nulla lorem augue, hendrerit eu ipsum at, sodales fringilla neque. Phasellus et tincidunt enim. Aliquam egestas ante ipsum, sed consequat tellus tincidunt id. Nullam eleifend, enim sed malesuada ullamcorper, dui metus rutrum libero, sit amet gravida risus diam vel sem. Nulla tempus quam vitae quam sagittis, at viverra enim fermentum. Aenean vitae euismod urna, dictum interdum torto</p> 
+
+<button type="button" class="btn btn-secondary ">READ MORE</button>
+<br />
+</div>
+
+
+
+
+
+</body>
+</html>
