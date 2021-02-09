@@ -131,7 +131,39 @@ li a
     text-transform: uppercase;
 }
 
-
+  .testimonials
+  {
+      margin-top: 40px auto;
+      display: inline;
+      background-color:lightgrey;
+      transform: translate();
+      box-sizing: border-box;
+      position: absolute;
+      box-shadow: 0 5px 5px rgba(0,0,0,0.15);
+  } 
+  .testimonials h1
+{
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+}
+.yellowgreen
+{
+    color: yellowgreen;
+}
+.icon
+{
+font-size: 30px;
+margin: 10px auto;
+padding: 10px;
+height: 60px;
+width: 60px;
+border: 1px solid;
+border-radius: 50%;
+background-color: whitesmoke;
+color: lightgrey;
+}
 
 
  
