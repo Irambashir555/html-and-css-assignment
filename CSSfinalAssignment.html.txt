@@ -98,7 +98,51 @@
 <button type="button" class="btn btn-secondary ">READ MORE</button>
 <br />
 </div>
-
+section class="testimonials">
+    <div class="container">
+    <h1>our <span class="yellowgreen">services</span></h1>  
+    <p class="text-center">Lorem ipsum color sit amit consetetur sadipscing eitter,sed diam <br /> nonuamy eirmod tempor invidunt ut labore et dolore magna alquyam erat. </p>
+    <div class="row">
+    <div class="col-md-4 text-centre">
+    <div class="profile">
+    <div class="icon1">
+    <i class="fa fa-star" ></i>
+    </div>
+    <h3>web design</h3>
+    <blockquote>Lorem ipsum color sit amit consetetur sadipscing eitter,sed diam <br /> nonuamy eirmod tempor invidunt ut labore et dolore magna alquyam erat.</blockquote>
+    <center>
+    <button type="button" class="btn btn-secondary ">READ MORE</button>
+    </center>
+</div>
+</div>
+<div class="col-md-4 text-centre">
+    <div class="profile">
+        <div class="icon1">
+    <i class="fa fa-star"></i>
+    </div>
+    <h3>graphic design</h3>
+    <blockquote>Lorem ipsum color sit amit consetetur sadipscing eitter,sed diam <br /> nonuamy eirmod tempor invidunt ut labore et dolore magna alquyam erat.</blockquote>
+    <center>
+    <button type="button" class="btn btn-secondary ">READ MORE</button> 
+    </center>
+    </div>
+    </div>
+    <div class="col-md-4 text-centre">
+    <div class="profile">
+    <div class="icon1">
+    <i class="fa fa-star" ></i>
+    </div>
+    <h3>branding</h3>
+    <blockquote>Lorem ipsum color sit amit consetetur sadipscing eitter,sed diam <br /> nonuamy eirmod tempor invidunt ut labore et dolore magna alquyam erat.</blockquote>
+    <center>
+    <button type="button" class="btn btn-secondary ">READ MORE</button>
+    </center>
+    </div>
+    </div>
+    </div>
+    </div>
+    </section> 
+    </header>
 
 
 
